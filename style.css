@@ -1,0 +1,39 @@
+.categories {
+    width: 200px;
+    margin: 0;
+}
+
+.list {
+    list-style-type: none;
+    margin: 20px;
+    padding: 20px;
+    cursor: pointer;
+
+}
+
+.list li {
+    margin: 0px;
+    padding: 10px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.products {
+    text-align: center;
+    list-style-type: none;
+    cursor: pointer;
+}
+
+.product {
+    width: 100px;
+    height: 80px;
+    margin: 0px;
+    padding: 0;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.product-info {
+    text-align: right;
+    cursor: pointer;
+}
